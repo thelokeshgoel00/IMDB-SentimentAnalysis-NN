@@ -8,3 +8,6 @@ I myself have used google colab.<br>
 - Tensorflow [v2 prefered, v1 might also work]
 - Numpy
 - Matplotlib
+## Results
+- 88.2% accuracy on test data
+- 96% accuracy on train data
